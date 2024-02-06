@@ -20,7 +20,7 @@
 3. UniDic:lemma		語彙素(UniDic)
 4. UniDic:subLemma	語彙素細分類(UniDic)
 5. UniDic:pos		品詞(UniDic)
-6. UniDic:wTYpe		語種(UniDic)
+6. UniDic:wType		語種(UniDic)
 7. WLSP:article number	分類番号(分類語彙表)
 8. WLSP:class		類(分類語彙表)
 9. WLSP:division	部門(分類語彙表)
