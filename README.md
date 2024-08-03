@@ -8,8 +8,8 @@
 
 - bccwj_suw_wsd_freq_all.xlsx BCCWJ 全体の語彙頻度表
 - bccwj_suw_wsd_freq_registers.xlsx BCCWJ レジスタ毎の語彙頻度表
-- all/   bccwj_suw_wsd_freq_all.xlsx の元テキストデータ
-- registers/   bccwj_suw_wsd_freq_registers.xlsx の元テキストデータ
+- all/   bccwj_suw_wsd_freq_all.txt の元テキストデータ
+- registers/   bccwj_suw_wsd_freq_registers.txt の元テキストデータ
 
 ## Format
 
