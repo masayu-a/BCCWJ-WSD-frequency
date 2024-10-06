@@ -1,4 +1,4 @@
-# 『現代日本語書き言葉均衡コーパス』短単位語彙表（分類語彙表番号つき）(BCCWJ-WSD-frequency version 2024.01)
+# 『現代日本語書き言葉均衡コーパス』短単位語彙表（分類語彙表番号つき）(BCCWJ-WSD-frequency version 2024.10)
 
 ## Description
 
@@ -18,8 +18,8 @@
 1. register		レジスタ(BCCWJ)
 2. UniDic:lForm		語彙素読み(UniDic)
 3. UniDic:lemma		語彙素(UniDic)
-4. UniDic:subLemma	語彙素細分類(UniDic)
-5. UniDic:pos		品詞(UniDic)
+4. UniDic:pos		品詞(UniDic)
+5. UniDic:subLemma	語彙素細分類(UniDic)
 6. UniDic:wType		語種(UniDic)
 7. WLSP:article number	分類番号(分類語彙表)
 8. WLSP:class		類(分類語彙表)
@@ -44,10 +44,18 @@ CC BY-NC-ND 4.0
 
 ## Credit
 
-国立国語研究所 (2024) 『現代日本語書き言葉均衡コーパス』短単位語彙表（分類語彙表番号つき）(BCCWJ-WSD-frequency version 2024.01)
+国立国語研究所 (2024) 『現代日本語書き言葉均衡コーパス』短単位語彙表（分類語彙表番号つき）(BCCWJ-WSD-frequency version 2024.10)
 
 本データは、科研費 22K12145 および国立国語研究所共同研究プロジェクト「アノテーションデータを用いた実証的計算心理言語学」によるものです。
 
 ## Contact
 
 kotonoha@ninjal.ac.jp
+
+
+## History
+
+- (BCCWJ-WSD-frequency version 2024.01) から (BCCWJ-WSD-frequency version 2024.10) への変更点
+
+subLemma の列を変更
+
